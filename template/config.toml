@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Example Open Project"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "http://oasis-open-projects.org/wp-content/uploads/2018/06/oasis_favicon.png"
+  description = "A simple, quick, easy-to-modify project website."
+  facebook = "https://www.facebook.com/oasis.open"
+  twitter = "https://twitter.com/OASISopen"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/oasis-open-projects"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/company/oasis/"
+  mastodon = ""
+  logo = "/images/main_nav_logo.png"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 1
