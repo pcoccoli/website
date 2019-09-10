@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pedantic-sinoussi-974ee3.netlify.com/"
 languageCode = "en-us"
 title = "Example Open Project"
 theme = "ananke"
