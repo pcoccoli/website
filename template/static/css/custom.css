@@ -1,0 +1,9 @@
+.oasis-required-language {
+    color: hsla(0,0%,100%,.7);
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.oasis-required-language a {
+    color: hsla(0,0%,100%,.7);
+}
