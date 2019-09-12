@@ -1,0 +1,14 @@
+  <div class="mb3 pa4 mid-gray overflow-hidden">
+    {{ if .Params.logo }}
+      <div class="f6">
+        <a href="{{ .Params.company_url }}">
+          <img src="{{ .Params.logo }}" alt="logo from {{ .Params.company_name }}">
+        </a>
+      </div>
+    {{ end }}
+    <h1 class="f3 near-black">
+      <a href="{{ .Params.company_url }}" class="link black dim">
+        {{ .Params.company_name }}
+      </a>
+    </h1>
+  </div>
