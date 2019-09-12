@@ -14,7 +14,3 @@ Deep v crucifix fixie, cred vinyl chartreuse actually thundercats jianbing. Pour
 * [Jane Doe](https://hipsum.co)
 * [Sam Smitherson](https://hipsum.co)
 * [Tammy Tammerson](https://hipsum.co)
-
-
-## Our Project Sponsors
- Enamel pin brooklyn roof party tumblr. Squid next level cold-pressed, lyft glossier put a bird on it pork belly scenester chambray ramps kogi normcore mustache direct trade intelligentsia. Gastropub cold-pressed pour-over tofu.

@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 20 # number of sponsors that will show on sponsor page at a time
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -32,3 +32,4 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 1
   custom_css = ["css/custom.css"]
+  mainSections = ["posts", "sponsors"]

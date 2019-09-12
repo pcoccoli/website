@@ -7,3 +7,10 @@
 .oasis-required-language a {
     color: hsla(0,0%,100%,.7);
 }
+
+.sponsor-list-logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px; 
+    margin: 25px;
+}
