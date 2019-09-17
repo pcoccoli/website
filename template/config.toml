@@ -31,5 +31,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 1
+  mailing_list_subscribe = ""
   custom_css = ["css/custom.css"]
   mainSections = ["posts", "sponsors"]
