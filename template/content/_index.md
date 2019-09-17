@@ -1,8 +1,12 @@
 ---
-title: "Example Open Project"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "Project's catchy tagline or short description."
+title: "Open Cybersecurity Alliance"
+featured_image: '/images/cyber_background.jpg'
+description: "Integrate once, reuse everywhere."
 ---
 
-## Attention Grabbing Header
-Lorem ipsum dolor amet farm-to-table culpa photo booth polaroid viral minim single-origin coffee adaptogen tbh kogi edison bulb copper mug poke blog vice. Messenger bag biodiesel hella adipisicing shabby chic chartreuse iPhone venmo mumblecore franzen vexillologist. Excepteur butcher tote bag master cleanse. Distillery stumptown slow-carb, in 90's post-ironic fanny pack. Raclette authentic minim, schlitz heirloom anim 90's edison bulb kogi before they sold out butcher roof party dolor cronut
+## A Global Alliance for Sharing Cybersecurity Data
+The OCA brings together vendors and end users in an open cybersecurity
+ecosystem where products can freely exchange information, insights,
+analytics, and orchestrated response. The OCA supports commonly
+developed code and tooling and the use of mutually agreed upon
+technologies, data standards, and procedures.

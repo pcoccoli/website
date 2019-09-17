@@ -4,7 +4,7 @@
 }
 
 .oasis-banner img {
-    margin: 1em;
+    margin: .3em;
 }
 
 .oasis-required-language {
@@ -20,6 +20,6 @@
 .sponsor-list-logo {
     display: inline-block;
     vertical-align: middle;
-    width: 100px; 
+    width: 150px; 
     margin: 25px;
 }
