@@ -1,6 +1,6 @@
 ---
 company_name: "Indegy"
-logo: "/images/sponsors/Indegy_Logo.svg"
+logo: "/images/sponsors/indegy.png"
 title: "Indegy"
 company_url: "https://www.indegy.com/"
 ---
