@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "http://oasis-open-projects.org/wp-content/uploads/2018/06/oasis_favicon.png"
+  favicon = "images/Favicon.png"
   description = "A simple, quick, easy-to-modify project website."
   facebook = "https://www.facebook.com/oasis.open"
   twitter = "https://twitter.com/OASISopen"
@@ -26,7 +26,7 @@ enableRobotsTXT = true
   gitlab = ""
   linkedin = "https://www.linkedin.com/company/oasis/"
   mastodon = ""
-  logo = "/images/oca-placeholder-logo.png"
+  logo = "images/OCA_logo.png"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/cyber_background.jpg"
