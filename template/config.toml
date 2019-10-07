@@ -33,4 +33,4 @@ enableRobotsTXT = true
   recent_posts_number = 1
   mailing_list_subscribe = "mailto:op-admin@oasis-open.org"
   custom_css = ["css/custom.css"]
-  mainSections = ["posts", "sponsors"]
+  mainSections = ["news", "sponsors"]

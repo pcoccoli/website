@@ -4,5 +4,3 @@ logo: "/images/sponsors/ThreatQuotient.jpg"
 title: "ThreatQuotient"
 company_url: "https://www.threatq.com/"
 ---
-
-here is some content
