@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7bc3ca8-6e6c-4de7-8e58-886e9e68eacb/deploy-status)](https://app.netlify.com/sites/pedantic-sinoussi-974ee3/deploys)
+
 # op-static-site-template
 
 This repository an example template static site for open projects. It makes use of Hugo, a customizeable Hugo theme, github-driven continuous deployment, and hosting with Netlify:
