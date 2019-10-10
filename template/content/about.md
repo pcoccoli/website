@@ -23,7 +23,13 @@ Sponsor organizations.
 
 Current PGB members:
 
-* coming soon
+* Jason Keirstead (IBM)
+* Darren Thomas (McAfee)
+* Carolyn Raab (Corsa Security)
+* John Moran (DFLabs)
+* Patrick Duggan (New Context)
+* Adam Bosnian (CyberArk)
+* JP Bourget (Syncurity)
 
 ### Technical Steering Committee (TSC)
 
