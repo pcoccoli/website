@@ -8,8 +8,9 @@ menu:
 
 ---
 
+Everyone is welcome to join the Open Cybersecurity Alliance. 
 
-Is your organization interested in sponsoring OCA? Contact us to learn more about the alliance.
-Interested in contributing? Join us on [github](https://github.com/opencybersecurityalliance).
-
+Individuals may make technical contributions on [github](https://github.com/opencybersecurityalliance).
+Organizations are invited to support the OCA by becoming sponsors. Contact us for more details about sponsorship, or to learn more about the Alliance.
+ 
 {{< form-contact action="https://formspree.io/jory.burson@oasis-open.org"  >}}
