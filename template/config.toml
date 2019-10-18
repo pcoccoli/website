@@ -31,6 +31,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/cyber_background.jpg"
   recent_posts_number = 1
-  mailing_list_subscribe = "mailto:op-admin@oasis-open.org"
+  mailing_list_subscribe = "mailto:oca-subscribe@lists.oasis-open-projects.org"
   custom_css = ["css/custom.css"]
   mainSections = ["news", "sponsors"]
