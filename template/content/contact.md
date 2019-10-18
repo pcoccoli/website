@@ -9,6 +9,7 @@ menu:
 ---
 
 
-Want to learn more? Get involved? Let's chat! 
+Is your organization interested in sponsoring OCA? Contact us to learn more about the alliance.
+Interested in contributing? Join us on [github](https://github.com/opencybersecurityalliance).
 
 {{< form-contact action="https://formspree.io/jory.burson@oasis-open.org"  >}}
