@@ -30,7 +30,6 @@ Current PGB members:
 * Patrick Duggan (New Context)
 * Adam Bosnian (CyberArk)
 * JP Bourget (Syncurity)
-* John Moran (DFLabs)
 * Yariv Lenchner (Indegy)
 * Duncan Sparrell (sFractal Consulting LLC)
 
