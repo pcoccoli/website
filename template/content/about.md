@@ -23,15 +23,15 @@ Sponsor organizations.
 
 Current PGB members:
 
-* Jason Keirstead (IBM)
-* Darren Thomas (McAfee)
-* Carolyn Raab (Corsa Security)
-* John Moran (DFLabs)
-* Patrick Duggan (New Context)
-* Adam Bosnian (CyberArk)
-* JP Bourget (Syncurity)
-* Yariv Lenchner (Indegy)
-* Duncan Sparrell (sFractal Consulting LLC)
+* Jason Keirstead, Chief Architect, IBM Security Threat Management
+* Darren Thomas, Senior Product Manager, Open Data Exchange Layer, McAfee
+* Carolyn Raab, Chief Product Officer, Corsa Security
+* John Moran, Senior Project Manager, DFLabs
+* Patrick Duggan, Chief of Staff, New Context
+* Adam Bosnian, Executive VP, Global Business Development, CyberArk
+* JP Bourget, Founder and Chief Security Officer, Syncurity
+* Yariv Lenchner, Director of Product Management, Indegy
+* Duncan Sparrell, Principal, sFractal Consulting
 
 
 ### Technical Steering Committee (TSC)
