@@ -16,7 +16,7 @@ Everyone is welcome to join the Open Cybersecurity Alliance.
 * [Sign up](https://lists.oasis-open-projects.org/g/oca) for or [view](https://lists.oasis-open-projects.org/g/oca/topics) our mailing lists
 
 ### Contribute on GitHub
-We currently have 2 projects that you can join.  The table below provides basic information on these projects, you can read more details on the [projects page](/projects/)
+We currently have 2 projects that are available for contributions.  The table below provides basic information on these projects, you can read more details on the [projects page](/projects/)
 
 | Project | Description | GitHub link |
 |---  |---   |---   |

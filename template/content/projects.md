@@ -8,8 +8,6 @@ menu:
 
 ---
 
-
-
 ## STIX Shifter
 
 STIX Shifter is an open source python library and command-line utility allowing software to connect to products that house data repositories by using STIX 2 Patterning, and return results as STIX 2 Observations.
@@ -26,8 +24,10 @@ You might want to use this tool/library and contribute to development, if any of
 For more details on the project, see the [project overview page](https://github.com/opencybersecurityalliance/stix-shifter/blob/master/OVERVIEW.md).
 
 
-## OpenDXL Ontology Project
-* Focused on development of open, interoperable cybersecurity messaging format for use with OpenDXL messaging bus
+## OpenDXL Ontology
+
+The OpenDXL Ontology project is focused on the development of an open and interoperable cybersecurity messaging format for use with the OpenDXL messaging bus. 
+
 * Categorized set of messages used to perform actions on cybersecurity products and notifications used to signal when significant security-related events occur
 * Incorporates other common open standards for message content (OpenC2, STIX, etc.)
 * Includes sample code that demonstrates how to integrate the ontology into existing security products and related solutions
