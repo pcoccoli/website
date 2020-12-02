@@ -10,8 +10,6 @@ summary: " We are at the pinnacle of innovation for security. Yet, Security lead
 tag: "blog"
 ---
 
-# The Value of Open Security
-
 Let me lay out a scenario for you. Forward leaning organizations are embracing change. They’re refactoring apps to become more modular, containerized, and are increasingly shifting to SaaS, in order to move fast and scale. They’re treating data as a shared resource between departments, partners, and communities; and using AI and analytics to find untapped value. They’re embracing hybrid cloud, to match the right workload to the right cloud environment for their business. 
 
 However, this new world is bringing along with it a unique set of challenges. Public cloud, private cloud, traditional infrastructure - security and security tools are sprinkled everywhere. As a result, it is increasingly difficult to detect threats, investigate and remediate. The problem is exacerbated by there being too many vendors, and too much complexity - there are too many alerts and incidents to deal with - meanwhile, simultaneously, those incidents often lack context and intelligence, due to lack of seamless information flows across the overly complex ecosystem of vendors and tools.
