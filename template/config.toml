@@ -4,6 +4,13 @@ title = "OCA"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = true
+
 [params]
   
   custom_css = ["/css/custom1.css", "/css/custom2.css"]
