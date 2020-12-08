@@ -3,12 +3,17 @@ date: 2020-12-02
 description: "The Value of Open Security"
 published_url: "/posts/blog-2020-11-20-opensecurity/"
 title: "The Value of Open Security"
-featured_image: "/images/cyber-security-3194286_1280.jpg"
+featured_image: "/posts/community.jpg"
 author: "Jason Keirstead"
 publisher: "Open Cybersecurity Alliance"
 summary: " We are at the pinnacle of innovation for security. Yet, Security leaders today are stressed with too much to do, too many security tools, too much complexity, too many alerts, and not enough skills. For the most part, we all have access to roughly the same types of technology.  The challenge is that the tools providing this technology, don’t talk to each other. The reasons why vary for every person and company – there is, however, one direction that the cybersecurity industry is starting to move in together to solve these challenges, and that direction is \"open\""
 tag: "blog"
 ---
+<h4 style="margin-left: 0.5em; margin-top:-1.5em">
+- by <a href="https://www.linkedin.com/in/jasonkeirstead/">Jason Keirstead</a>
+</h4>
+
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../change.jpg"/>
 
 Let me lay out a scenario for you. Forward leaning organizations are embracing change. They’re refactoring apps to become more modular, containerized, and are increasingly shifting to SaaS, in order to move fast and scale. They’re treating data as a shared resource between departments, partners, and communities; and using AI and analytics to find untapped value. They’re embracing hybrid cloud, to match the right workload to the right cloud environment for their business. 
 
@@ -18,13 +23,17 @@ This current state of the industry, is simply unsustainable long term. But how d
 
 ## Learning from History
 
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../designthink.jpg"/>
+
 I believe that one place that we as an industry can look for inspiration, is to see how we can learn from other domains of information technology. Over the past two decades, most major innovations have evolved from an open approach that has fueled success in every major technology category - including operating systems ([Linux](https://www.kernel.org/), [Android](https://source.android.com/)), data ([Hadoop](https://hadoop.apache.org/), [MongoDB](https://github.com/mongodb/mongo), [Elasticsearch](https://github.com/elastic/elasticsearch)), technology management ([Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io/)), and more. 
 
 The evidence is indisputable - open technology is winning the day. But what of cybersecurity? 
 
-Security is the next frontier when it comes to open. Of course, there are a handful of very popular open-source security tools and open source and standards are currently the foundation for many key areas of cybersecurity around things like cryptography, identity management, etc. However, the adoption of “open” as the de-facto and mainstream development model in cybersecurity, is still very much in its infancy compared to other areas of the IT sector. 
+Security is the next frontier when it comes to open. Of course, there are a handful of very popular [open-source security tools](https://www.oasis-open.org/projects-committees/?filter-technology=cybersec) and open source and [standards](https://www.oasis-open.org/standards/?filter-technology=cybersec) are currently the foundation for many key areas of cybersecurity around things like cryptography, identity management, etc. However, the adoption of “open” as the de-facto and mainstream development model in cybersecurity, is still very much in its infancy compared to other areas of the IT sector. 
 
 ## Why Open Security, and What Is Holding Us Back
+
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../lock_fence.jpg"/>
 
 The benefits that come from Open Security align around two key areas: 
 
@@ -35,6 +44,8 @@ The benefits that come from Open Security align around two key areas:
 If Open Security can bring all of these benefits, then why does it continue to be such a laggard? Let's start with a basic premise - what security is at its core, is mitigation against fear and uncertainty. I am sure many here are aware of the [CIA triad](https://www.f5.com/labs/articles/education/what-is-the-cia-triad) - confidentiality, integrity, and availability. These three key attributes are supposed to define the object of cybersecurity practice - however, we have to highlight that the CIA triad is supposed to apply to data, **not** to the cybersecurity practice itself. There exists a fundamental tension in the cybersecurity space between core principles such as privacy of the individual, vs situational awareness of attacks, and collaboration around defensive posture, vs sharing our knowledge with adversaries. This tension is a good thing, and important. Unfortunately, the history of cybersecurity has led to the industry over-pivoting toward one extreme, where we worry more about protecting what we think is our "secret sauce", than collaborating across the industry.
 
 ## The Four Pillars of Open Security
+
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../puzzle_pieces.jpg"/>
 
 ### Open Standards
 
@@ -55,6 +66,8 @@ While there is a marked improvement in sharing of some types of information – 
 The fourth pillar is best practices, which enable the best-of-breed solutions to be brought to bear in your environment, no matter what it’s size. Organizations that are able to leverage existing best practices tend to see a dramatic reduction in overall effort spent on their cybersecurity program. Best practice frameworks consist of guidelines and best practices to manage cybersecurity-related risk. The cost-effective approach helps to promote the protection and resilience of critical infrastructure and allows smaller organizations with finite resources to consume and deploy best practices curated by best of breed subject matter experts and practitioners. One of the most well-known promoters of best practices is the [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework), which consists of standards, guidelines, and best practices to manage cybersecurity-related risk. Another very important best practice framework would be the [CIS Controls](https://www.cisecurity.org/controls/). And finally, new standards such as [CACAO](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao) are being created in order to allow you to collaborate on and consume industry best practice operations playbooks.
 
 ## The Common Thread - Community
+
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../community.jpg"/>
 
 What is the common thread among all of these pillars of Open Security? **Community**. Communities, combined with the previously discussed efforts, are what create the competitive advantage for Open Security. Otherwise known as the [“power of the crowd”](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds), the community is the unifying fabric of it all. As an industry, we have to learn how to lean into and embrace these community-driven models of standards, code, intelligence, analytics, and best practice. Only then will we be able to keep pace with, and hopefully get ahead of, emerging threats.
 

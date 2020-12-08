@@ -3,8 +3,14 @@ BaseURL = "https://opencybersecurityalliance.org/"
 title = "OCA"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
-
 googleAnalytics = "G-BDQL844N94"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = true
 
 [params]
   
