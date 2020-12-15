@@ -47,7 +47,7 @@ googleAnalytics = "G-BDQL844N94"
 
     # postpended links
     [[menu.postpend]]
-      url = "https://opencybersecurityalliance.org/posts/"
+      url = "/posts/"
       name = "News"
       weight = 10
   
