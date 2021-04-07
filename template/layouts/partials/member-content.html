@@ -1,6 +1,6 @@
 <h2 class="f2">Member Content</h2>
 <aside class="">
-  {{ range where .Paginator.Pages ".Params.tag" "blog" }}
+  {{ range where .Pages ".Params.tag" "blog" }}
       <div class="">
         {{ $featured_image := .Params.featured_image }}
 <article class="">
