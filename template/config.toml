@@ -147,6 +147,14 @@ googleAnalytics = "G-BDQL844N94"
     footertext = ''
 
     [[params.projects.row]]
+        img = "led-panel.jpg"
+        alt = "Kestrel"
+        title = "Kestrel"
+        subtitle = "Threat Hunting Language"
+        description = "Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt."
+        url = "https://github.com/opencybersecurityalliance/kestrel-lang"
+
+    [[params.projects.row]]
       img = "stix-shifter-lib2-img.jpg"
       alt = "STIX Shifter"
       title = "STIX Shifter"
@@ -170,13 +178,6 @@ googleAnalytics = "G-BDQL844N94"
       description = "Supports continuous monitoring for tracking assets' policy compliance"
       url = "https://csrc.nist.gov/projects/security-content-automation-protocol-v2/scapv2-community"
 
-    [[params.projects.row]]
-        img = "stix-shifter-lib2-img.jpg"
-        alt = "Kestrel"
-        title = "Kestrel"
-        subtitle = "Threat Hunting Language"
-        description = "Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt."
-        url = "https://github.com/opencybersecurityalliance/kestrel-lang"
 
   # About section
   [params.about]
