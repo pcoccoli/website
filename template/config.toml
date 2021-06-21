@@ -13,7 +13,7 @@ googleAnalytics = "G-BDQL844N94"
       xhtml = true
 
 [params]
-  
+
   custom_css = ["/css/custom1.css", "/css/custom2.css"]
   baseurl = "https://opencybersecurityalliance.org/"
 
@@ -38,7 +38,7 @@ googleAnalytics = "G-BDQL844N94"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
-    
+
     # prepended links
     #[[menu.prepend]]
     #  url = "http://gohugo.io"
@@ -50,12 +50,12 @@ googleAnalytics = "G-BDQL844N94"
       url = "/posts/"
       name = "News"
       weight = 10
-  
+
   # Hero section
   [params.hero]
     title = "We’re Making Standards-Based, Interoperable Cybersecurity a Reality."
     subtitle = "OCA is building an open ecosystem where cybersecurity products interoperate without the need for customized integrations. Using community-developed standards and practices, we're simplifying integration across the threat lifecycle. Join our community."
- 
+
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
@@ -114,7 +114,7 @@ googleAnalytics = "G-BDQL844N94"
       person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person3.jpg"
       alt = "Person3"
-    
+
   # Services section
   [params.services]
     enable = true
@@ -138,13 +138,21 @@ googleAnalytics = "G-BDQL844N94"
       benefit3 = "Avoid buying unnecessary tools"
       benefit4 = "Free yourself from vendor lock-in"
       icon = "icon-info"
-    
+
   # Projects section
   [params.projects]
     enable = true
     title = "Projects"
     description = "OCA advances a growing body of open source projects."
     footertext = ''
+
+    [[params.projects.row]]
+        img = "led-panel.jpg"
+        alt = "Kestrel"
+        title = "Kestrel"
+        subtitle = "Threat Hunting Language"
+        description = "Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt."
+        url = "https://github.com/opencybersecurityalliance/kestrel-lang"
 
     [[params.projects.row]]
       img = "stix-shifter-lib2-img.jpg"
@@ -170,6 +178,7 @@ googleAnalytics = "G-BDQL844N94"
       description = "Supports continuous monitoring for tracking assets' policy compliance"
       url = "https://csrc.nist.gov/projects/security-content-automation-protocol-v2/scapv2-community"
 
+
   # About section
   [params.about]
     enable = true
@@ -189,7 +198,7 @@ googleAnalytics = "G-BDQL844N94"
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ]
-    
+
     [[params.about.item]]
       name = "Governance"
       position = ""
@@ -217,7 +226,7 @@ googleAnalytics = "G-BDQL844N94"
         ["icon-facebook", "#"],
         ["icon-github", "#"]
       ]
-     
+
 
   # Counters section
   [params.counters]
@@ -264,7 +273,7 @@ googleAnalytics = "G-BDQL844N94"
     form = true
     title = "Get in touch"
     description = "Contact us for more details about sponsorship, or to learn more about the Alliance."
-    
+
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
