@@ -1,6 +1,6 @@
 ---
-date: 2021-06-28
-publishdate: 2021-06-28
+date: 2021-06-29
+publishdate: 2021-06-29
 featured_image: ""
 published_url: "/posts/kestrel-threat-hunting-tool"
 description: "Press Release: IBM donates Kestrel to OCA"
