@@ -14,7 +14,7 @@ googleAnalytics = "G-BDQL844N94"
 
 [params]
 
-  custom_css = ["/css/custom1.css", "/css/custom2.css"]
+  custom_css = ["/css/custom1.css", "/css/custom2.css", "/css/codeblock.css"]
   baseurl = "https://opencybersecurityalliance.org/"
 
   # Meta
