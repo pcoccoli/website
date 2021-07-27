@@ -1,5 +1,6 @@
 # Page settings
 BaseURL = "https://opencybersecurityalliance.org/"
+#relativeURLs = true
 title = "OCA"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
