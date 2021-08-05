@@ -4,7 +4,7 @@ title: "Get Involved"
 
 OCA is committed to providing an open and welcoming environment for all contributors. Anyone can join our Slack discussions, subscribe to our mailing lists, and make technical contributions to any of our projects at any time! 
 
-* [Introduce yourself on our #introductions Slack channel](https://docs.google.com/forms/d/1vEAqg9SKBF3UMtmbJJ9qqLarrXN5zeVG3_obedA3DKs/viewform?edit_requested=true)
+* [Introduce yourself on our #introductions Slack channel](https://join.slack.com/t/open-cybersecurity/shared_invite/zt-ojjqlwvp-UFG32P5VzIdEMsjSc2iYlQ)
 * [Subscribe to our mailing lists](https://lists.oasis-open-projects.org/g/oca)
 * [Follow us on YouTube](https://www.youtube.com/user/OASISopen)
 * [Follow us on Twitter](https://twitter.com/OpenCyberAllnc)
