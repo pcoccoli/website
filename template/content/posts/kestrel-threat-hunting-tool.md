@@ -79,6 +79,15 @@ transforming threat discoveries into actionable threat intelligence at-scale, th
 need a powerful language to communicate the threat hunting tasks and operations, and we
 believe that Kestrel is an answer to that.” – Renuka Nadkarni, VP and CTO Security, F5 Inc.*
 
+*"The core of the TruSTAR (acquired by SPLUNK) philosophy is to encourage and facilitate
+the sharing of threat intelligence to enable organizations to defend better together.
+The commitment by the OCA to adopt and build open standards to enable collaboration and
+interoperability aligns perfectly with that philosophy. Splunk TruSTAR is excited about
+the introduction of project Kestrel and its standard threat hunting language to the
+OCA ecosystem. It is another great capability that has the potential to increase
+collaboration and encourage more shared intelligence across the ecosystems of
+tools and vendors." – Chris Murphy, Splunk Director of Engineering and TruSTAR CTO.*
+
 *“To meet today’s increasing threats requires tools to help defenders share both between
 people/organizations and between products. OCA helps with vendor-agnostic, machine-speed
 cyber-defense automation. The new Kestrel project is a welcome addition to that toolset to
