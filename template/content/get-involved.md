@@ -2,7 +2,7 @@
 title: "Get Involved"
 ---
 
-OCA is committed to providing an open and welcoming environment for all contributors. Anyone can join our Slack discussions, subscribe to our mailing lists, and make technical contributions to any of our projects at any time! 
+OCA is committed to providing an open and welcoming environment for all contributors. Anyone can join our Slack discussions, subscribe to our mailing lists, and make technical contributions to any of our projects at any time!
 
 * [Introduce yourself on our #introductions Slack channel](https://join.slack.com/t/open-cybersecurity/shared_invite/zt-ojjqlwvp-UFG32P5VzIdEMsjSc2iYlQ)
 * [Subscribe to our mailing lists](https://lists.oasis-open-projects.org/g/oca)
@@ -39,6 +39,14 @@ This reference architecture is also serving us as a basis for our planned OCA ac
 Each workgroup will define Actions and Notifications, leveraging the OpenDXL Ontology outline and samples [here](https://opencybersecurityalliance.github.io/opendxl-ontology/).
 To join a workgroup, contact us on our #introductions Slack channel.
 
-#### Contribute to an OCA Project
+### Contribute to an OCA Project
 
 In addition to the workgroups listed above, you may contribute to any of the OCA Projects via our [GitHub repositories](https://github.com/opencybersecurityalliance).
+
+
+### Become an OCA Sponsor
+
+All organizations are welcome to support the Open Cybersecurity Alliance. Every sponsor has the option to be represented on the project’s Project Governing Board and shape the project strategy.
+As a sponsor, your organization also benefits from joint marketing activities, like press releases and reprentation at industry events.
+
+If you want to become a sponsor, [talk to us](communications@oasis-open.org) for more information.
