@@ -47,6 +47,6 @@ In addition to the workgroups listed above, you may contribute to any of the OCA
 ### Become an OCA Sponsor
 
 All organizations are welcome to support the Open Cybersecurity Alliance. Every sponsor has the option to be represented on the project’s Project Governing Board and shape the project strategy.
-As a sponsor, your organization also benefits from joint marketing activities, like press releases and reprentation at industry events.
+As a sponsor, your organization also benefits from joint marketing activities, like press releases and representation at industry events.
 
 If you want to become a sponsor, [talk to us](communications@oasis-open.org) for more information.
