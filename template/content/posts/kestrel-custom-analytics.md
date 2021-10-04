@@ -1,6 +1,6 @@
 ---
-date: 2021-08-06
-publishdate: 2021-08-06
+date: 2021-09-01
+publishdate: 2021-09-01
 published_url: "/posts/kestrel-custom-analytics"
 title: "Building Your Own Kestrel Analytics and Sharing With the Community"
 author: "Paul Coccoli"
