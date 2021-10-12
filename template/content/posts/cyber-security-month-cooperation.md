@@ -6,7 +6,7 @@ title: "Enabling the Cooperative Ecosystem"
 author: "Adam Montville"
 publisher: "Open Cybersecurity Alliance"
 featured_image: "/images/cyber_background.jpg"
-summary: "In the second post for Cyber Security Month, Adam Montville, Chief Architect for Security Best Practices at CIS, is discussing how and why the OCA is working to enable a normalization of workflows and perspectives across the full range of contexts in which a system operates."
+summary: "In the second post for Cyber Security Month, Adam Montville, Chief Architect for Security Best Practices at CIS, is discussing why the OCA is working to enable a normalization of workflows and perspectives across the full range of contexts in which a system operates."
 tag: "blog"
 ---
 
