@@ -13,7 +13,7 @@ tag: "blog"
 
 **By Dennis Dennis Moreau, Sr Engineering Architect, Senior Engineering Architect for CyberSecurity and Compliance, Office of the CTO at VMware.**
 
-The seemingly endless stream of supply chain exploitation and ransomware disruptions have made it painfully clear that malware is already inside the perimeter, and has been there – undetected – for some time. With mounting pressure to adress this issue, a significant number of regulatory and standards efforts have begun to consider Zero Trust as part of the answer.
+The seemingly endless stream of supply chain exploitation and ransomware disruptions have made it painfully clear that malware is already inside the perimeter, and has been there – undetected – for some time. With mounting pressure to address this issue, a significant number of regulatory and standards efforts have begun to consider Zero Trust as part of the answer.
 
 With its focus on continuous verification against policy, applied granularly at the logical intersection between subject and objects, Zero Trust promises a level of resilience to “inside out” exploitation by enabling containment of the “blast radius” of malware. Much like the way that the establishment of many watertight compartments in the construction of a warship prevents a single torpedo from sinking the entire vessel, the compartmentalization employed must be strong enough to resist malware “escape”.
 
