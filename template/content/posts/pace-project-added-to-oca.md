@@ -42,10 +42,6 @@ _– Dr. Vaughan Shanks, CEO, Cydarm Technologies_
 “Cybersecurity threats are rapidly evolving, making it essential for organizations to have complete visibility over their current security posture and the environment they are striving to protect. At Cyware, we facilitate the goal of collective defense for all organizations and communities through collaborative threat response and threat intelligence sharing. PACE, an OCA project will steer the community towards a collaborative framework, enabling them to have the right visibility over the security posture of any organization.”
 _– Avkash Kathiriya, VP – Research and Innovation, Cyware Labs_
 
-### EclecticIQ
-“EclecticIQ and the Open Cybersecurity Alliance (OCA) share a common belief that an open ecosystem improves cybersecurity for everyone. Our open and extensible platform makes it easy to use and share intelligence from multiple sources to detect threats earlier, remediate incidents faster, and run operations more efficiently. We applaud the OCA for driving industry-wide cooperation on protocols and standards surrounding sharing cybersecurity insights and findings.”
-_– Ciaran Bradley, CTO, EclecticIQ_
-
 ### F5 Inc.
 “Effectively sketching the cybersecurity posture of organizations to practically combat cyber threats requires the power of both enterprise and open-source tools to build a coherent and vigorous cyber defense platform. Fusion and integration of security products including information exchange with the PACE project in the OCA ecosystem not only helps the organizations to subvert cyber threats at scale by generating efficient threat intelligence but also helps to build a proactive and robust cybersecurity stance. In fact, that’s the need of the hour for organizations to provide a secure and safe digital transformation environment to customers.”
 _– Renuka Nadkarni, CTO Security, F5 Inc._
