@@ -197,7 +197,7 @@ googleAnalytics = "G-BDQL844N94"
       alt = "PACE"
       title = "PACE"
       subtitle = "Posture Attribute Collection and Evaluation"
-      description = "Helps to evaluate the posture assessment of computing resources."
+      description = "Automating the collection and evaluation of security posture attributes from computing resources."
       url = "https://github.com/opencybersecurityalliance/PACE"
 
 
