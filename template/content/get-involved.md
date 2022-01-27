@@ -6,7 +6,7 @@ OCA is committed to providing an open and welcoming environment for all contribu
 
 * [Introduce yourself on our #introductions Slack channel](https://join.slack.com/t/open-cybersecurity/shared_invite/zt-ojjqlwvp-UFG32P5VzIdEMsjSc2iYlQ)
 * [Subscribe to our mailing lists](https://lists.oasis-open-projects.org/g/oca)
-* [Follow us on YouTube](https://www.youtube.com/user/OASISopen)
+* [Follow us on YouTube](https://www.youtube.com/channel/UCjTpPl2oEGH_Ws251m827Cg/)
 * [Follow us on Twitter](https://twitter.com/OpenCyberAllnc)
 
 ### See what our Project Governing Board (PGB) is doing.
