@@ -156,8 +156,8 @@ googleAnalytics = "G-BDQL844N94"
   # Projects section
   [params.projects]
     enable = true
-    title = "Projects"
-    description = "OCA advances a growing body of open source projects."
+    title = "OCA Sub-Projects and Working Groups"
+    description = "OCA advances a growing body of open source projects and working groups."
     footertext = ''
 
     [[params.projects.row]]
@@ -176,21 +176,6 @@ googleAnalytics = "G-BDQL844N94"
       description = "Allows data to be normalized across domains for comprehensive security analysis"
       url = "https://github.com/opencybersecurityalliance/stix-shifter"
 
-    [[params.projects.row]]
-      img = "opendxl-message-img.jpg"
-      alt = "OpenDXL Ontology"
-      title = "OpenDXL Ontology"
-      subtitle = "Messaging Format"
-      description = "Enables real-time data exchange and cross-vendor orchestration"
-      url = "https://github.com/opencybersecurityalliance/opendxl-ontology"
-
-    [[params.projects.row]]
-      img = "scap-data-img.jpg"
-      alt = "NIST SCAP v2"
-      title = "NIST SCAP v2"
-      subtitle = "Data Collection Architecture"
-      description = "Supports continuous monitoring for tracking assets' policy compliance"
-      url = "https://csrc.nist.gov/projects/security-content-automation-protocol-v2/scapv2-community"
 
     [[params.projects.row]]
       img = "pace.jpg"
@@ -201,8 +186,30 @@ googleAnalytics = "G-BDQL844N94"
       url = "https://github.com/opencybersecurityalliance/PACE"
 
 
+    [[params.projects.row]]
+      img = ""
+      alt = "IOB"
+      title = "Indicators of Behavior Sharing"
+      subtitle = "Working Group"
+      description = "Focused on the challenge of moving detections to Indicators of Behavior, and how to collaborate on, share IoB based detections between products and tool"
+      url = "https://github.com/opencybersecurityalliance/documentation/tree/master/iob-wg"
 
 
+    [[params.projects.row]]
+      img = ""
+      alt = "Zero Trust"
+      title = "Zero Trust Architecture"
+      subtitle = "Working Group"
+      description = "Working to create and further refine OCA technologies to enable a Zero Trust architecture."
+      url = "https://github.com/opencybersecurityalliance/documentation/tree/master/ZeroTrust"
+
+    [[params.projects.row]]
+      img = ""
+      alt = "OCA Ontology"
+      title = "OCA Ontology"
+      subtitle = "Working Group"
+      description = "Creating a unified ontology for cybersecurity information in order to have standard ways of encoding information on data fabrics, APIs, etc."
+      url = "https://github.com/opencybersecurityalliance/documentation/tree/master/Architecture%20Documents/Ontology"
 
 
   # About section
