@@ -25,19 +25,19 @@ This work positions OCA with other related activities (especially IACD and SACM)
 
 This reference architecture is also serving us as a basis for our planned OCA activities to define the actions/alerts that formulate ontology as part of the OpenDXL Ontology project.
 
-#### Join an OpenDXL Ontology Workgroup
+#### Join an OCA Working Group
 
-* Threat Intelligence
-* Endpoint
-* SIEM
-* SOAR
-* Infrastructure
-* Vulnerability, Compliance, Policy
-* OT/Embedded
-* Security Overlay/Consolidators/Consultancy
+* **Indicators of Behavior (IoB) Working Group**
+  * [Github](https://github.com/opencybersecurityalliance/documentation/tree/master/iob-wg)
+  * [Mailing List](https://lists.oasis-open-projects.org/g/oca-iob-wg)
+* **OCA Architecture Working Group**
+  * [Github](https://github.com/opencybersecurityalliance/documentation/tree/master/Architecture%20Documents)
+  * [Mailing List](https://lists.oasis-open-projects.org/g/oca-architecture-wg)
+* **Zero Trust Architecture Working Group**
+  * [Github](https://github.com/opencybersecurityalliance/documentation/tree/master/ZeroTrust)
 
-Each workgroup will define Actions and Notifications, leveraging the OpenDXL Ontology outline and samples [here](https://opencybersecurityalliance.github.io/opendxl-ontology/).
-To join a workgroup, contact us on our #introductions Slack channel.
+
+To join a workgroup, contact us on our [#introductions Slack channel](https://join.slack.com/t/open-cybersecurity/shared_invite/zt-ojjqlwvp-UFG32P5VzIdEMsjSc2iYlQ).
 
 ### Contribute to an OCA Project
 
@@ -49,4 +49,4 @@ In addition to the workgroups listed above, you may contribute to any of the OCA
 All organizations are welcome to support the Open Cybersecurity Alliance. Every sponsor has the option to be represented on the project’s Project Governing Board and shape the project strategy.
 As a sponsor, your organization also benefits from joint marketing activities, like press releases and representation at industry events.
 
-If you want to become a sponsor, [talk to us](communications@oasis-open.org) for more information.
+If you want to become a sponsor, [talk to us](mailto:join@oasis-open.org) for more information.
