@@ -187,8 +187,6 @@ googleAnalytics = "G-BDQL844N94"
 
 
     [[params.projects.row]]
-      img = ""
-      alt = "IOB"
       title = "Indicators of Behavior Sharing"
       subtitle = "Working Group"
       description = "Focused on the challenge of moving detections to Indicators of Behavior, and how to collaborate on, share IoB based detections between products and tool"
@@ -196,16 +194,12 @@ googleAnalytics = "G-BDQL844N94"
 
 
     [[params.projects.row]]
-      img = ""
-      alt = "Zero Trust"
       title = "Zero Trust Architecture"
       subtitle = "Working Group"
       description = "Working to create and further refine OCA technologies to enable a Zero Trust architecture."
       url = "https://github.com/opencybersecurityalliance/documentation/tree/master/ZeroTrust"
 
     [[params.projects.row]]
-      img = ""
-      alt = "OCA Ontology"
       title = "OCA Ontology"
       subtitle = "Working Group"
       description = "Creating a unified ontology for cybersecurity information in order to have standard ways of encoding information on data fabrics, APIs, etc."
