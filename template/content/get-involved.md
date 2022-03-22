@@ -19,7 +19,7 @@ Our Marketing Committee meets on a monthly basis. [Follow this link](https://lis
 
 ### Review the OCA Reference Architecture
 
-[See this link](https://github.com/opencybersecurityalliance/documentation/blob/master/SACM_OCA_IACD.png) to our current draft of our OCA architecture discussions as we evolve this diagram.
+[See this link](https://github.com/opencybersecurityalliance/documentation#sacm-oca-iacd-diagram) to our current draft of our OCA architecture discussions as we evolve this diagram.
 
 This work positions OCA with other related activities (especially IACD and SACM) so we can ensure we have alignment.
 
