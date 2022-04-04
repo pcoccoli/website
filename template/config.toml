@@ -194,6 +194,7 @@ googleAnalytics = "G-BDQL844N94"
 
 
     [[params.projects.row]]
+
       title = "Zero Trust Architecture"
       subtitle = "Working Group"
       description = "Working to create and further refine OCA technologies to enable a Zero Trust architecture."
@@ -297,9 +298,9 @@ googleAnalytics = "G-BDQL844N94"
   [params.contact]
     enable = true
     map = true
-    form = true
+    form = false
     title = "Get in touch"
-    description = "Contact us for more details about sponsorship, or to learn more about the Alliance."
+    description = "[Contact us for more details](mailto:dee.schur@oasis-open.org) about sponsorship or to learn more about the Open Cybersecurity Alliance."
 
     # Available icons: http://simplelineicons.com/
     details = [
