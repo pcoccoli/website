@@ -1,3 +1,5 @@
+**PLEASE NOTE: The [OCA website](https://opencybersecurityalliance.org/) has moved. This is now a public archive.**
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7bc3ca8-6e6c-4de7-8e58-886e9e68eacb/deploy-status)](https://app.netlify.com/sites/pedantic-sinoussi-974ee3/deploys)
 
 # Open Cybersecurity Alliance Website Repository
