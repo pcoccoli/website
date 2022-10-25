@@ -44,7 +44,7 @@ As of version [1.4.1](https://github.com/opencybersecurityalliance/kestrel-lang/
 
 ## <a name="section:sds"></a>Using Datasets From securitydatasets.com
 
-securitydatasets.com stores host logs in their own JSON format (then zips them).  Most of the Windows datasets should be supported, and you can refer to them just like they were a STIX bundle.  For example, take a look at [Empire Mimikatz Extract Kerberos Keys](https://securitydatasets.com/notebooks/atomic/windows/credential_access/SDWIN-190518230752.html).  This page details an adversarial emulation run by OTRF, with the host events captured in zipfile in GitHub.  By using the "Host" link shown in the "Datasets Download", you can try using Kestrel for detecting this technique.  For a first step, try looking for some PowerShell processes:
+securitydatasets.com stores host logs in their own JSON format (then zips them).  Most of the Windows datasets should be supported, and you can refer to them just like they were a STIX bundle.  For example, take a look at [Empire Mimikatz Extract Kerberos Keys](https://securitydatasets.com/notebooks/atomic/windows/credential_access/SDWIN-190518230752.html).  This page details an adversarial emulation run by OTRF, with the host events captured in a zipfile in GitHub.  By using the "Host" link shown in the "Datasets Download", you can try using Kestrel for detecting this technique.  For a first step, try looking for some PowerShell processes:
 
 ```elixir
 procs = GET process
@@ -54,7 +54,7 @@ procs = GET process
 
 Kestrel will download the zip file, unzip it, read in the JSON, transform it on the fly to STIX, then ingest it as if it were search results from [stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter).
 
-If you try out that command above, then `DISP procs` to see what Kestrel found, you might notice something interesting.  Once of those processes has a very long command line with what almost looks like random junk:
+If you try out that command above, then `DISP procs` to see what Kestrel found, you might notice something interesting.  One of those processes has a very long command line with what almost looks like random junk:
 
 ```shell
 powershell.exe" -noP -sta -w 1 -enc SQBGACgA...RQBYAA==
@@ -116,7 +116,7 @@ A hunter can now scan the code and perhaps get some idea of what to look at next
 
 ## <a name="section:nesting"></a>Nesting Dolls
 
-What happens when the code that was base64-encoded itself use
+What happens when the code that was base64-encoded itself uses
 base64-encoded data?  When `psd` notices this, it will unencode and
 append the result as a comment:
 
