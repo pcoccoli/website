@@ -38,6 +38,7 @@ As of version [1.4.1](https://github.com/opencybersecurityalliance/kestrel-lang/
 2. [The Empire Strikes...Something](#section:empire)
 3. [Introducing the PowerShell Deobfuscator](#section:psd)
 4. [Nesting Dolls](#section:nesting)
+5. [Credits](#section:credits)
 
 </br>
 </br>
@@ -129,3 +130,7 @@ The line above, which is found inside a larger, obfuscated PowerShell script, is
 In this dataset, it's a private IP address, so you can't really go much farther.  It may be a command and control server (possibly the one running Empire) or a staging site to download the next stage of the payload.  The "Adversary View" from the dataset page shows that the Empire PowerShell agent will run the `mimikatz` tool, so maybe that's the next payload stage?  It's an exercise left to the reader.
 
 Happy hunting!
+
+## <a name="section:credits"></a>Credits
+
+The PowerShell Deobfuscator is the result of Hack Day project at IBM Security by Paul Coccoli, Senior Software Engineer; and Stephen White, student at the University of New Brunswick.
